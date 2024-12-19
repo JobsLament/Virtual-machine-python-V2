@@ -25,4 +25,7 @@
 **Запуск**
 python assembler.py <input_file> <output_file> <log_file>
 
+![Описание изображения](https://github.com/JobsLament/Virtual-machine-python-V2/blob/main/1.PNG)
+![Описание изображения](https://github.com/JobsLament/Virtual-machine-python-V2/blob/main/2.PNG)
+
 
