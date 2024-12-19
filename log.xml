@@ -1,1 +1,1 @@
-<Log><Instruction><Opcode>LOAD_MEM</Opcode><A>16</A><B>840</B><Bytes>10d2000000</Bytes></Instruction></Log>
+<Log><Instruction><Opcode>LOAD_CONST</Opcode><A>19</A><B>170</B><Bytes>932a0000</Bytes></Instruction><Instruction><Opcode>LOAD_MEM</Opcode><A>16</A><B>840</B><Bytes>10d2000000</Bytes></Instruction><Instruction><Opcode>STORE_MEM</Opcode><A>60</A><B>86</B><Bytes>bc15000000</Bytes></Instruction><Instruction><Opcode>SHIFT_RIGHT</Opcode><A>35</A><B>210</B><Bytes>a3340000</Bytes></Instruction></Log>
